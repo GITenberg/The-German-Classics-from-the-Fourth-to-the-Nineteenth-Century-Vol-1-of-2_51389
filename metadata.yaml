@@ -1,0 +1,49 @@
+_repo: The-German-Classics-from-the-Fourth-to-the-Nineteenth-Century-Vol-1-of-2_51389
+_version: 0.0.1
+alternative_title: The German Classics from the 4th to the 19th Century, Vol. 1 (of
+  2)
+contributor:
+  contributor:
+    agent_name: Scherer, Wilhelm
+    alias: Scherer, W. (Wilhelm)
+    birthdate: 1841
+    deathdate: 1886
+    gutenberg_agent_id: '40776'
+    url: http://www.gutenberg.org/2009/agents/40776
+creator:
+  author:
+    agent_name: Müller, F. Max (Friedrich Max)
+    aliases:
+    - Müller, Friedrich Max
+    - Mueller, Friedrich Max
+    - Muller, F. Max (Friedrich Max)
+    - Müller, Max
+    - F. Max Müller
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '787'
+    url: http://www.gutenberg.org/2009/agents/787
+    wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
+  editor:
+    agent_name: Lichtenstein, Franz
+    birthdate: 1852
+    deathdate: 1884
+    gutenberg_agent_id: '46390'
+    url: http://www.gutenberg.org/2009/agents/46390
+description: ''
+gutenberg_issued: '2016-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51389'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature'
+- !lcc 'PT'
+- !lcsh 'German literature -- Middle High German, 1050-1500'
+- !lcsh 'German literature -- Old High German, 750-1050'
+- GITenberg
+title: The German Classics from the Fourth to the Nineteenth Century, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/51389
